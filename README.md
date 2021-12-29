@@ -1,4 +1,4 @@
-# Quote
+# Quote Bot
 Telegram Bot to generate Random Quotes from famous personalities.
 
 # DEPLOY
