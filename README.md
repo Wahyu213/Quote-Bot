@@ -1,10 +1,10 @@
-# Quote Bot
+# Quote-Bot
 Telegram Bot to generate Random Quotes from famous personalities.
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/Quote/tree/main)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Wahyu213/Quote-Bot/tree/main)
 
 AFTER DEPLOY DO SET WEBHOOK BY ``api.telegram.org/bot<your bot token>/setwebhook?url=<Heroku site link>/index.php``
 
