@@ -1,4 +1,5 @@
 # Quote
+Telegram Bot to generate Random Quotes from famous personalities.
 
 # DEPLOY
 YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW
