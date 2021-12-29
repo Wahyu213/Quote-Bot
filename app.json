@@ -1,0 +1,27 @@
+{
+    "name": "Quote Bot",
+    "description": "A simple bot to fetch Quotes.",
+    "keywords": [
+        "Quotes",
+        "Bot",
+        "Reading"
+    ],
+    "logo": "https://telegra.ph/file/1794c81b97fc30dcefeb2.png",
+    "repository": "https://github.com/Wahyu213/Quote",
+    "success_url": "/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },
+        "START_MESSAGE": {
+            "description": "A start message for your bot. Add /get command"
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
